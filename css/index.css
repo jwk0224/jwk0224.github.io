@@ -8,11 +8,6 @@
     src: url(../font/NanumSquareBold.ttf);
 }
 
-@font-face{
-    font-family: '나눔스퀘어EB';
-    src: url(../font/NanumSquareExtraBold.ttf);
-}
-
 div, p {
     font-family: 나눔스퀘어R;
 }
