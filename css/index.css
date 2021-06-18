@@ -41,3 +41,10 @@ code {
   cursor: pointer;
   border-style: solid;
 }
+
+.image {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 15px;
+  object-fit: cover;
+}
